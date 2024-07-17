@@ -1,0 +1,10 @@
+Copied / Updated File : ExcelFileTest.xlsx
+Copied / Updated File : NewTestFileWhileRunning.txt
+Copied / Updated File : Picture.bmp
+Copied / Updated File : TextFile1.txt
+Copied / Updated File : new file.txt
+Copied / Updated File : New Text Document.txt
+Copied / Updated File : Picture.bmp
+Copied / Updated File : Picture.bmp
+Deleted File : New Text Document.txt
+Deleted File : TextFile1.txt
