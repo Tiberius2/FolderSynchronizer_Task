@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FolderSynchronizer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\FolderSync_Task\\SourceFolder\" \"D:\\FolderSync_Task\\ReplicaFolder\" 20 D:\\FolderSync_Task\\logfile.txt\""
+    }
+  }
+}
